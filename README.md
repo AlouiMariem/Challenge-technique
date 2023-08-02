@@ -1,11 +1,11 @@
 # Challenge-technique
 # Challenge-technique
-<img align="left" alt="map" src="capt/login.png" width="1000"/>
-<img align="left" alt="map" src="capt/register.png" width="1000"/>
-<img align="left" alt="map" src="capt/userProfil.png" width="1000"/>
-<img align="left" alt="map" src="capt/adminpanel.png" width="1000"/>
-<img align="left" alt="map" src="capt/addcategory.png" width="1000"/>
-<img align="left" alt="map" src="capt/addproduct.png" width="1000"/>
+<img align="left" alt="map" src="capt/log.png" width="1000"/>
+<img align="left" alt="map" src="capt/singup.png" width="1000"/>
+<img align="left" alt="map" src="capt/creat.png" width="1000"/>
+<img align="left" alt="map" src="capt/articl.png" width="1000"/>
+<img align="left" alt="map" src="capt/comnt.png" width="1000"/>
+<img align="left" alt="map" src="capt/delet.png" width="1000"/>
 
 ## Installation
 
