@@ -1,0 +1,15 @@
+.list {
+    flex-direction: column;
+  }
+  
+  .list {
+    list-style: circle;
+    margin: 0 0 5px 20px;
+  }
+  div{
+    background-color:#8754 ;
+  }
+  .banner {
+    background-color:#8754
+  }
+  
